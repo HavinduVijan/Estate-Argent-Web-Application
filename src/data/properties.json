@@ -1,0 +1,243 @@
+{
+    "properties": [
+      {
+        "id": "prop1",
+        "type": "House",
+        "bedrooms": 3,
+        "price": 750000,
+        "tenure": "Freehold",
+        "description": "Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+        "location": {
+          "lat": 51.3924,
+          "lng": 0.0794,
+          "address": "Petts Wood Road, Petts Wood, Orpington BR5"
+        },
+        "added": {
+          "month": "January",
+          "day": 1,
+          "year": 2024
+        },
+        "floorPlan": "assets/FP1.jpg" 
+      },
+      {
+        "id": "prop2",
+        "type": "Flat",
+        "bedrooms": 2,
+        "price": 399995,
+        "tenure": "Freehold",
+        "description": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+        "location": {
+          "lat": 51.3855,
+          "lng": 0.0555,
+          "address": "Crofton Road Orpington BR6"
+        },
+  
+        "added": {
+          "month": "September",
+          "day": 14,
+          "year": 2023
+        },
+        "floorPlan": "assets/FP2.jpg" 
+      },
+      {
+        "id": "prop3",
+        "type": "House",
+        "bedrooms": 4,
+        "price": 925000,
+        "tenure": "Freehold",
+        "description": "Spacious four bedroom detached house in a sought-after location. Features a large garden, modern kitchen, two reception rooms, and a master bedroom with en-suite. Close to excellent schools and transport links.",
+        "location": {
+          "lat": 51.4183,
+          "lng": 0.0258,
+          "address": "Highfield Road, Bromley BR1"
+        },
+      
+        "added": {
+          "month": "November",
+          "day": 5,
+          "year": 2022
+        },
+        "floorPlan": "assets/FP1.jpg" 
+      },
+      {
+        "id": "prop4",
+        "type": "Flat",
+        "bedrooms": 1,
+        "price": 285000,
+        "tenure": "Leasehold",
+        "description": "Bright and airy one bedroom flat in a modern development. Open-plan living area, fully fitted kitchen, and a private balcony. Excellent transport links and close to local amenities.",
+        "location": {
+          "lat": 51.3762,
+          "lng": -0.0982,
+          "address": "London Road, Croydon CR0"
+        },
+       
+        "added": {
+          "month": "October",
+          "day": 28,
+          "year": 2023
+        },
+        "floorPlan": "assets/FP3.jpg" 
+      },
+      {
+        "id": "prop5",
+        "type": "Bungalow",
+        "bedrooms": 2,
+        "price": 550000,
+        "tenure": "Freehold",
+        "description": "Charming two bedroom bungalow with a large garden and off-street parking. Features a spacious living room, a conservatory, and a modern bathroom. Located in a quiet residential area.",
+        "location": {
+          "lat": 51.2764,
+          "lng": 0.2698,
+          "address": "Valley Road, Sevenoaks TN13"
+        },
+       
+        "added": {
+          "month": "December",
+          "day": 10,
+          "year": 2024
+        },
+        "floorPlan": "assets/FP1.jpg" 
+      },
+      {
+        "id": "prop6",
+        "type": "House",
+        "bedrooms": 3,
+        "price": 675000,
+        "tenure": "Freehold",
+        "description": "Beautifully presented three bedroom semi-detached house. Extended kitchen/diner, two reception rooms, and a large garden with a patio area. Close to local schools and parks.",
+        "location": {
+          "lat": 51.4485,
+          "lng": 0.1475,
+          "address": "Park Avenue, Sidcup DA15"
+        },
+      
+        "added": {
+          "month": "November",
+          "day": 18,
+          "year": 2024
+        },
+        "floorPlan": "assets/FP2.jpg" 
+      },
+      {
+        "id": "prop7",
+        "type": "Flat",
+        "bedrooms": 2,
+        "price": 450000,
+        "tenure": "Share of Freehold",
+        "description": "Stylish two bedroom apartment in a converted Victorian building. High ceilings, period features, and a communal garden. Located in a vibrant area with excellent transport links.",
+        "location": {
+          "lat": 51.4082,
+          "lng": -0.0229,
+          "address": "High Street, Beckenham BR3"
+        },
+      
+        "added": {
+          "month": "September",
+          "day": 5,
+          "year": 2024
+        },
+        "floorPlan": "assets/FP3.jpg" 
+      },
+      {
+        "id": "prop8",
+        "type": "House",
+        "bedrooms": 5,
+        "price": 1200000,
+        "tenure": "Freehold",
+        "description": "Impressive five bedroom detached house with a double garage and a large driveway. Spacious living areas, a modern kitchen, and a landscaped garden. Situated in a prestigious location.",
+        "location": {
+          "lat": 51.4145,
+          "lng": 0.0728,
+          "address": "The Drive, Chislehurst BR7"
+        },
+      
+        "added": {
+          "month": "October",
+          "day": 15,
+          "year": 2024
+        },
+        "floorPlan": "assets/FP3.jpg" 
+      },
+      {
+        "id": "prop9",
+        "type": "Flat",
+        "bedrooms": 3,
+        "price": 575000,
+        "tenure": "Leasehold",
+        "description": "Luxurious three bedroom penthouse apartment with stunning views. Open-plan living area, a large terrace, and secure underground parking. Close to shops, restaurants, and transport links.",
+        "location": {
+          "lat": 51.3952,
+          "lng": 0.0685,
+          "address": "Station Road, Orpington BR6"
+        },
+   
+        "added": {
+          "month": "December",
+          "day": 1,
+          "year": 2024
+        },
+        "floorPlan": "assets/FP1.jpg" 
+      },
+      {
+        "id": "prop10",
+        "type": "House",
+        "bedrooms": 2,
+        "price": 485000,
+        "tenure": "Freehold",
+        "description": "Cosy two bedroom terraced house with a private garden. Well-presented throughout, with a modern kitchen and bathroom. Ideal for first-time buyers or investors.",
+        "location": {
+          "lat": 51.4421,
+          "lng": 0.2235,
+          "address": "Victoria Road, Dartford DA1"
+        },
+     
+        "added": {
+          "month": "November",
+          "day": 25,
+          "year": 2024
+        },
+        "floorPlan": "assets/FP2.jpg" 
+      },
+      {
+        "id": "prop11",
+        "type": "Bungalow",
+        "bedrooms": 2,
+        "price": 325000,
+        "tenure": "Leasehold",
+        "description": "Two bedroom maisonette with own entrance and private garden. Spacious living room, fitted kitchen, and two double bedrooms. Conveniently located for local shops and transport.",
+        "location": {
+          "lat": 51.3948,
+          "lng": -0.2687,
+          "address": "Elm Road, New Malden KT3"
+        },
+     
+        "added": {
+          "month": "October",
+          "day": 12,
+          "year": 2024
+        },
+        "floorPlan": "assets/FP1.jpg" 
+      },
+      {
+        "id": "prop12",
+        "type": "House",
+        "bedrooms": 4,
+        "price": 895000,
+        "tenure": "Freehold",
+        "description": "Stunning four bedroom detached family home with large garden and off-street parking for several cars. Extended living space, modern fitted kitchen, and high-spec finishes throughout. Excellent location near top-rated schools.",
+        "location": {
+          "lat": 51.3715,
+          "lng": -0.4292,
+          "address": "Beechwood Avenue, Weybridge KT13"
+        },
+      
+        "added": {
+          "month": "December",
+          "day": 14,
+          "year": 2024
+        },
+        "floorPlan": "assets/FP3.jpg" 
+      }
+    ]
+  }
