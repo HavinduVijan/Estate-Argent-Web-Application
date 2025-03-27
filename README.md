@@ -1,4 +1,4 @@
-# 🏠 Westminster Estate Explorer
+# 🏠 Real-Estate Client Side Web Application
 
 ## 📂 Project Structure
 
@@ -104,7 +104,7 @@ Meets all requirements for 5COSC026W Advanced Client-Side Web Development
 
 ## 📃 License
 
-
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Developer
 
